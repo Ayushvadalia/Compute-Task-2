@@ -1,2 +1,2 @@
-# Compute-Task-2
+# Logistic Regression
 Pandas and Numpy Basics
